@@ -1,0 +1,4 @@
+
+def split_seq(a):
+    for e in range(len(a)):
+        if a[e] < a[e+1:e+2]
